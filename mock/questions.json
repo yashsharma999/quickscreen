@@ -1,0 +1,42 @@
+{
+  "github_specific": [
+    {
+      "id": "1",
+      "question_label": "Please provide a link to a technical writing",
+      "tooltip": "To showcase your coding abilities and discuss a noteworthy aspect that reflects your coding style and technical expertise. Ex: github gist",
+      "input_type": "text",
+      "labels": ["github_gist", "coding_style"],
+      "name": "gist"
+    },
+    {
+      "id": "2",
+      "question_label": "Provide a specific GitHub commit, discussion thread, or issue that you were involved in, and provide some context about your contributions to the project",
+      "tooltip": "This will give us insight into your experience with collaborative software development and your ability to communicate effectively with team members on technical issues",
+      "input_type": "text",
+      "labels": ["github_commit", "collaborative_software_development"],
+      "name": "commit"
+    },
+    {
+      "id": "3",
+      "question_label": "Please upload your resume here.",
+      "input_type": "file",
+      "labels": ["resume"],
+      "name": "resume"
+    },
+    {
+      "id": "4",
+      "question_label": "Please upload your cover letter here.",
+      "input_type": "text",
+      "labels": ["cover_letter"],
+      "name": "cover_letter"
+    },
+    {
+      "id": "5",
+      "question_label": "Please enter your Email address",
+      "input_type": "email",
+      "labels": ["email"],
+      "required": true,
+      "name": "email"
+    }
+  ]
+}

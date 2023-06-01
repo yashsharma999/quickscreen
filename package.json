@@ -1,0 +1,33 @@
+{
+  "name": "empvet-v2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.18",
+    "@chakra-ui/react": "^2.5.5",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@fontsource/inter": "^4.5.15",
+    "@fontsource/montserrat": "^4.5.14",
+    "@fontsource/poppins": "^4.5.10",
+    "dayjs": "^1.11.7",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "firebase": "^9.20.0",
+    "formik": "^2.2.9",
+    "framer-motion": "^10.12.4",
+    "next": "13.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-icons": "^4.8.0",
+    "recoil": "^0.7.7",
+    "yup": "^1.1.1"
+  }
+}
